@@ -1,3 +1,5 @@
+![Screen Shot](https://github.com/00111000/Counter-App-w-Redux/blob/main/ScreenShot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
